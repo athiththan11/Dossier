@@ -2,6 +2,8 @@
 
 An Express.js Backend Baked with MongoDB and GraphQL.
 
+[Demo](https://dossier-server.herokuapp.com) | Deployed on Heroku
+
 ## Setup & Usage
 
 clone or download the project and configure your `mongodb` connection url, by either following these 2 defined approaches ...
